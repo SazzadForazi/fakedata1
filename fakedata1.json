@@ -1,0 +1,32 @@
+{
+    "course": [
+        {
+            "id": "52977",
+            "course": "Advanced UI/UX Design",
+            "fees": "20,000",
+            "des": "This course introduces the student to the Advanced UI/UX Design Training. Basic Concepts Such as",
+            "img": "https://nebulas-it.com/wp-content/uploads/2017/09/30.png"
+        },
+        {
+            "id": "52978",
+            "course": "Red Hat Linux",
+            "fees": "15,000",
+            "des": "This course introduces the student to the Red Hat Linux Training. Basic Concepts Such as",
+            "img": "https://nebulas-it.com/wp-content/uploads/2017/05/red-hat-linux-.png"
+        },
+        {
+            "id": "52979",
+            "course": "Basic Computer Training",
+            "fees": "6,000",
+            "des": "This course introduces the student to the Basic Computer Training. Basic Concepts Such as",
+            "img": "https://nebulas-it.com/wp-content/uploads/2017/03/1.png"
+        },
+        {
+            "id": "52980",
+            "course": "Freelancing & Outsourcing",
+            "fees": "15,000",
+            "des": "This course introduces the student to the Freelancing Outsourcing Training. Basic Concepts Such as",
+            "img": "https://nebulas-it.com/wp-content/uploads/2017/03/freelancing.png"
+        }
+    ]
+}
